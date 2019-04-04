@@ -8,10 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'Projeto de Aula';
 
-  categorias = [
-    {id: '1', nome: 'Informática' },
-    {id: '2', nome: 'Laboratório' },
-    {id: '3', nome: 'Vendas' },
-    {id: '4', nome: 'Secretária' },
-  ]
+ 
 }
